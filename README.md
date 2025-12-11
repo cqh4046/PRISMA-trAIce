@@ -11,7 +11,7 @@ Systematic Reviews are the crucial for evidence synthesis, but they are extremel
 This project is designed as a "Living Guideline". In a field as dynamic as AI, a static standard quickly becomes obsolete. We therefore actively invite the scientific community to help shape and evolve this guideline.
 
 * **Stable Anchor:** This GitHub repository serves as the "Single Source of Truth". Here you will find the most current version of the checklist and all associated materials.
-* **Community Hub:** For discussions, questions, and rapid collaboration, we have set up a Discord server. Join our community on Discord!
+* **Community Hub:** For discussions, questions, and rapid collaboration, we have set up a Discord server. Join our community on ![Discord](https://discord.gg/DrDFBpEb53)!
 
 ## Roadmap
 
