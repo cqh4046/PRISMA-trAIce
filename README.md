@@ -21,7 +21,7 @@ If you use or refer to PRISMA-trAIce in your research, please cite both the orig
 Holst, D., Koch, J., Moenck, K., Gomse, M., & Schüppstuhl, T. (YEAR). PRISMA-trAIce: A Proposed Checklist for Transparent Reporting of Artificial Intelligence in Comprehensive Evidence-synthesis. [Journal Name], [Volume], [Pages]. [DOI-Link] *(Please update upon publication)*
 
 **GitHub Repository (for a specific version):**
-Holst, D., Koch, J., et al. (YEAR). PRISMA-trAIce: A Living Reporting Guideline (Version X.X.X). GitHub. Retrieved from [https://github.com/cqh4046/PRISMA-trAIce](https://github.com/cqh4046/PRISMA-trAIce)
+Holst, D., Koch, J., et al. (YEAR). PRISMA-trAIce: A Living Reporting Guideline (Version X.X.X). GitHub. Retrieved from [https://github.com/cqh4046/PRISMA-trAIce](https://github.com/cqh4046/PRISMA-trAIce/blob/main/PRISMA-trAIce_flow_diagram.png)
 
 ## ✅ The PRISMA-trAIce Checklist
 
@@ -50,7 +50,7 @@ The following checklist provides the recommended items for reporting the use of 
 ## 📊 The PRISMA-trAIce Flow Diagram
 
 To transparently report the study selection process, we propose an adaptation of the PRISMA 2020 Flow Diagram. The template explicitly distinguishes between administrative, rule-based tools (e.g., for deduplication) and AI systems that perform evaluative tasks.
-
+![PRISMA-trAIce Flow Diagram](https://github.com/cqh4046/PRISMA-trAIce/blob/main/)
 ## 🤝 How to Contribute
 
 We welcome community contributions! There are several ways to get involved:
