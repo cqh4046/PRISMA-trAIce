@@ -35,10 +35,29 @@ Following successful EQUATOR registration and Delphi validation, we aim to publi
 If you use or refer to PRISMA-trAIce in your research, please cite both the original publication and this GitHub repository to specify the version used.
 
 **Original Paper:**
-Holst, D., Koch, J., Moenck, K., Gomse, M., & Schüppstuhl, T. (YEAR). PRISMA-trAIce: A Proposed Checklist for Transparent Reporting of Artificial Intelligence in Comprehensive Evidence-synthesis. [Journal Name], [Volume], [Pages]. [DOI-Link] *(Please update upon publication)*
+Holst, D., Moenck, K., Koch, J., Schmedemann, O., & Schüppstuhl, T. (2025). Transparent Reporting of AI in Systematic Literature Reviews: Development of the PRISMA-trAIce Checklist. *JMIR AI*, 4:e80247. [https://doi.org/10.2196/80247](https://doi.org/10.2196/80247)
+
+<details>
+<summary>BibTeX (Click to expand)</summary>
+
+```bibtex
+@Article{info:doi/10.2196/80247,
+author="Holst, Dirk and Moenck, Keno and Koch, Julian and Schmedemann, Ole and Sch{\"u}ppstuhl, Thorsten",
+title="Transparent Reporting of AI in Systematic Literature Reviews: Development of the PRISMA-trAIce Checklist",
+journal="JMIR AI",
+year="2025",
+month="Dec",
+day="10",
+volume="4",
+pages="e80247",
+doi="10.2196/80247",
+url="https://doi.org/10.2196/80247"
+}
+```
+</details>
 
 **GitHub Repository (for a specific version):**
-Holst, D., Koch, J., et al. (YEAR). PRISMA-trAIce: A Living Reporting Guideline (Version X.X.X). GitHub. Retrieved from [https://github.com/cqh4046/PRISMA-trAIce](https://github.com/cqh4046/PRISMA-trAIce/blob/main/PRISMA-trAIce_flow_diagram.png)
+Holst, D., Koch, J., et al. (2025). PRISMA-trAIce: A Living Reporting Guideline (Version X.X.X). GitHub. Retrieved from [https://github.com/cqh4046/PRISMA-trAIce](https://github.com/cqh4046/PRISMA-trAIce)
 
 ## The PRISMA-trAIce Checklist
 
