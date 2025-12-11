@@ -50,7 +50,7 @@ The following checklist provides the recommended items for reporting the use of 
 ## 📊 The PRISMA-trAIce Flow Diagram
 
 To transparently report the study selection process, we propose an adaptation of the PRISMA 2020 Flow Diagram. The template explicitly distinguishes between administrative, rule-based tools (e.g., for deduplication) and AI systems that perform evaluative tasks.
-![PRISMA-trAIce Flow Diagram](https://github.com/cqh4046/PRISMA-trAIce/blob/main/)
+![PRISMA-trAIce Flow Diagram]([https://github.com/cqh4046/PRISMA-trAIce/blob/main/](https://github.com/cqh4046/PRISMA-trAIce/blob/main/PRISMA-trAIce_flow_diagram.webp))
 ## 🤝 How to Contribute
 
 We welcome community contributions! There are several ways to get involved:
