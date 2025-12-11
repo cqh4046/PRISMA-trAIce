@@ -2,18 +2,35 @@
 
 **PRISMA-trAIce** (Transparent Reporting of Artificial Intelligence in Comprehensive Evidence-synthesis) is a proposed extension to the PRISMA 2020 Statement. It aims to establish uniform and transparent standards for reporting the use of Artificial Intelligence (AI) as a methodological tool in Systematic Literature Reviews (SLRs).
 
-## 🚀 The Problem
+## Summary
 
-Systematic Reviews are the gold standard for evidence synthesis, but they are extremely demanding in terms of time and personnel. AI tools, especially Large Language Models (LLMs), can significantly accelerate this process. However, a standard for transparently reporting the use of these tools to ensure scientific traceability and trustworthiness is currently missing. Existing guidelines like PRISMA-AI focus on AI as a subject of research, not as a tool. **PRISMA-trAIce** closes this critical gap.
+Systematic Reviews are the crucial for evidence synthesis, but they are extremely demanding in terms of time and personnel. AI tools, especially Large Language Models (LLMs), can significantly accelerate this process. However, a standard for transparently reporting the use of these tools to ensure scientific traceability and trustworthiness is currently missing. Existing guidelines like PRISMA-AI focus on AI as a subject of research, not as a tool. **PRISMA-trAIce** closes this critical gap.
 
-## 🌱 A Living Guideline
+## A Living Guideline
 
 This project is designed as a "Living Guideline". In a field as dynamic as AI, a static standard quickly becomes obsolete. We therefore actively invite the scientific community to help shape and evolve this guideline.
 
 * **Stable Anchor:** This GitHub repository serves as the "Single Source of Truth". Here you will find the most current version of the checklist and all associated materials.
 * **Community Hub:** For discussions, questions, and rapid collaboration, we have set up a Discord server. Join our community on Discord!
 
-## ✍️ How to Cite
+## Roadmap
+
+The future development of PRISMA-trAIce is structured into three decisive phases to ensure scientific rigor and widespread adoption:
+
+**Phase 1: Community Mobilization & Expert Consensus**
+We invite domain specialists and SLR authors to join this Open Science initiative. The primary goal is to broaden the methodological input and establish the necessary "voting power" (expert consensus) required for the subsequent validation phases.
+
+**Phase 2: EQUATOR Network Registration**
+We intend to register PRISMA-trAIce with the EQUATOR Network. This step is a prerequisite for establishing PRISMA-trAIce as an officially recognized extension of the PRISMA 2020 Statement.
+
+**Phase 3: Delphi Validation**
+To ensure the guideline meets the gold standard of scientific trust, we will conduct a comprehensive Delphi study. This validation process is essential to position PRISMA-trAIce alongside existing, widely accepted reporting guidelines.
+
+**Publication Goal & Co-Authorship**
+Following successful EQUATOR registration and Delphi validation, we aim to publish the finalized guideline in a high-impact journal (e.g., *Nature Medicine*). **Contributors who actively shape PRISMA-trAIce will be eligible for co-authorship in this publication.**
+
+
+## How to Cite
 
 If you use or refer to PRISMA-trAIce in your research, please cite both the original publication and this GitHub repository to specify the version used.
 
@@ -23,7 +40,7 @@ Holst, D., Koch, J., Moenck, K., Gomse, M., & Schüppstuhl, T. (YEAR). PRISMA-tr
 **GitHub Repository (for a specific version):**
 Holst, D., Koch, J., et al. (YEAR). PRISMA-trAIce: A Living Reporting Guideline (Version X.X.X). GitHub. Retrieved from [https://github.com/cqh4046/PRISMA-trAIce](https://github.com/cqh4046/PRISMA-trAIce/blob/main/PRISMA-trAIce_flow_diagram.png)
 
-## ✅ The PRISMA-trAIce Checklist
+## The PRISMA-trAIce Checklist
 
 The following checklist provides the recommended items for reporting the use of AI tools in systematic reviews. Items are categorized by their importance for reproducibility and transparency (Mandatory, Highly Recommended, Recommended, Optional).
 
@@ -47,11 +64,11 @@ The following checklist provides the recommended items for reporting the use of 
 | **DISCUSSION**| **P-trAIce D1** | Recommended | **Limitations:** Discuss limitations (technical issues, biases, hallucinations) and their potential impact on findings. |
 | | **P-trAIce D2** | Optional | **Implications:** Briefly discuss the experience of using AI tools (benefits, challenges, workload reduction) for future reviews. |
 
-## 📊 The PRISMA-trAIce Flow Diagram
+## The PRISMA-trAIce Flow Diagram
 
 To transparently report the study selection process, we propose an adaptation of the PRISMA 2020 Flow Diagram. The template explicitly distinguishes between administrative, rule-based tools (e.g., for deduplication) and AI systems that perform evaluative tasks.
 ![PRISMA-trAIce Flow Diagram](https://github.com/cqh4046/PRISMA-trAIce/blob/main/PRISMA-trAIce_flow_diagram_80.webp)
-## 🤝 How to Contribute
+## How to Contribute
 
 We welcome community contributions! There are several ways to get involved:
 
